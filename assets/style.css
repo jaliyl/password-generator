@@ -1,14 +1,18 @@
+/* applies background color of the website to white */
 *{
     background-color: white;
 }
 
+/* basic formatting for the main element */
 main{
     text-align: center;
     align-items: center;
     padding-top: 50px;    
 }
 
+/* testing different ways how to make this text box display password */
 input{
+    align-items: center;
     width: 300px;
     height: 20px;
 }
